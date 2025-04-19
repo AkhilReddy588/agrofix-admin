@@ -26,4 +26,6 @@ Password: akhil123
 - 📦 View, Create, Update, Delete Products  
 - 🛍️ View Orders  
 - 📊 Dashboard Overview (optional future)
+- In the home page admin can have products. Admin can add, delete and update the products
+- In the orders page admin can see all products and update the status of the order
 
