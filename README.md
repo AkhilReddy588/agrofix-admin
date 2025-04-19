@@ -2,7 +2,9 @@
 
 This is the **admin dashboard frontend** for the AgroFix e-commerce app. It allows admins to **manage products**, **view orders**, and perform admin-level tasks.
 
----
+# Deployment Link:
+https://agrofix-admin-ebon.vercel.app/
+
 # Login credentials for admin
 Email: akhilreddya654@gmail.com
 Password: akhil123
@@ -13,9 +15,8 @@ Password: akhil123
 - **Frontend Framework:** React (Vite or CRA)
 - **UI Library:** Material UI (MUI)
 - **Routing:** React Router DOM
-- **State Management:** useState / Context API / Redux (optional)
-- **API Communication:** Axios
-- **Deployment:** Vercel or Netlify
+- **API Communication:** fetch
+- **Deployment:** Vercel
 
 ---
 
